@@ -26,8 +26,8 @@ Product preview card component
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [](https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-HCdw-ZJ4S2)
+- Live Site URL: [](https://verakissyou17.github.io/product-preview-card-component/)
 
 ## My process
 

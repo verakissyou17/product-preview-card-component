@@ -32,7 +32,7 @@ main {
   align-items: center;
   justify-content: center;
   background-color: var(--White);
-  border-radius: 20px;
+  border-radius: 10px;
   margin-top: 2em;
 }
 
@@ -144,12 +144,11 @@ footer a {
     grid-template-columns: 1fr 1fr;
     align-content: start;
     max-width: 650px;
-    /* flex-direction: row; */
   }
 
   .image-container {
     background-image: url('./images/image-product-desktop.jpg');
-    min-height: 400px;
+    min-height: 500px;
     padding-right: 1.5em;
     border-bottom-left-radius: 10px;
     border-top-right-radius: 0;
@@ -159,6 +158,6 @@ footer a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    min-height: 400px;
+    min-height: 500px;
   }
 }
